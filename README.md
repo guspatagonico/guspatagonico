@@ -30,16 +30,6 @@ I believe in the perks of sharing knowledge: **building, learning, evolving**.
 
 ---
 
-## ✨ Personal Manifesto
-
-Ideas are seeds.  
-Discipline makes them grow.  
-Knowledge shared multiplies.  
-Excellence is not an act, but a habit.  
-Every project is a journey of building, learning, and evolving.
-
----
-
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gustavosalvini/)
 - [My blog](https://gustavosalvini.com.ar)
