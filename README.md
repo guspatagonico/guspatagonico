@@ -9,12 +9,12 @@ I believe in the perks of sharing knowledge: **building, learning, evolving**.
 
 ---
 
-## 🔥 What I do
-- 🚀 Building and Growing Digital Products
-- ⚙️ IT Consulting and Digital Solutions Architecture
-- 🌐 Full-Stack Web Development (Next.js, React, Node.js, and more)
-- 🛠️ Open-Source Projects and Experimentation
-- 📚 Knowledge Sharing and Community Contribution
+## 🔥 What I Do
+- 🚀 Building purpose-driven digital products with a focus on quality, scalability, and impact.
+- ⚙️ Consulting on IT strategy and digital solutions architecture with discipline and business insight.
+- 🌐 Developing full-stack web applications (Next.js, React, Node.js) through clean, scalable, and future-ready practices.
+- 🛠️ Innovating through open-source experimentation and contribution.
+- 📚 Sharing knowledge to fuel growth, excellence, and collective innovation.
 
 ---
 
