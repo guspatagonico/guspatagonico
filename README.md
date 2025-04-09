@@ -33,8 +33,8 @@ I believe in the perks of sharing knowledge: **building, learning, evolving**.
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gustavosalvini/)
-- [Website](https://ecimtech.com)
-- [Portfolio](https://gustavosalvini.com.ar)
+- [My blog](https://gustavosalvini.com.ar)
+- [My company: EcimTech](https://ecimtech.com)
 
 ---
 
