@@ -16,12 +16,25 @@ I believe in the perks of sharing knowledge: **building, learning, evolving**.
 - 🛠️ Innovating through open-source experimentation and contribution.
 - 📚 Sharing knowledge to fuel growth, excellence, and collective innovation.
 
+## 🤖 AI-Enhanced Development and Research
+
+I'm actively researching and developing solutions that leverage **AI and LLM technologies** to enhance software development workflows, product ideation, and digital solutions.
+
+My work includes:
+- Integrating **OpenAI**, **Anthropic**, **Gemini** and **open-source LLMs** through API-based architectures.
+- Exploring **Generative AI** applications for software architecture support, content generation, and automation.
+- Building **AI-augmented web tools** that empower users to create, learn, and make better decisions faster.
+- Researching **RAG systems** (Retrieval-Augmented Generation) and **semantic search** integrations to improve the way information is accessed and used inside applications.
+- Investigating **local LLM deployment** options for privacy-centric AI solutions.
+
+I see AI not just as a tool, but as a catalyst for **building smarter, more scalable, and more human-centered digital products**.
+
 ---
 
 ## 🧩 Current Focus
 - Building modern web applications with **React**, **Next.js**, and **Vite**.
 - Designing scalable and maintainable **software architectures** for frontend and full-stack projects.
-- Mastering **advanced state management** solutions for React applications, including **Zustand**, **Redux Toolkit**, **React Context**, and **custom state architectures**.
+- Specializing in **advanced state management** for React applications, using tools like **Zustand**, **MobX**, **MobX State Tree**, **Valtio**, and leveraging **Immer** for efficient immutable data updates.
 - Exploring **static site generation (SSG)**, **server-side rendering (SSR)**, **incremental static regeneration (ISR)**, and **serverless architectures**.
 - Integrating modern backend services through **REST APIs**, **GraphQL**, and **headless CMS** solutions.
 - Leveraging **component-based design systems** and **UI libraries** like **Mantine**, **Chakra UI**, and **Radix UI**.
