@@ -19,10 +19,15 @@ I believe in the perks of sharing knowledge: **building, learning, evolving**.
 ---
 
 ## 🧩 Current Focus
-- Building modern web apps with **React**, **Next.js**, and **Vite**.
-- Exploring static and serverless architectures.
-- Innovating through open-source technologies and best practices.
-- Continuously learning and evolving through experimentation.
+- Building modern web applications with **React**, **Next.js**, and **Vite**.
+- Designing scalable and maintainable **software architectures** for frontend and full-stack projects.
+- Mastering **advanced state management** solutions for React applications, including **Zustand**, **Redux Toolkit**, **React Context**, and **custom state architectures**.
+- Exploring **static site generation (SSG)**, **server-side rendering (SSR)**, **incremental static regeneration (ISR)**, and **serverless architectures**.
+- Integrating modern backend services through **REST APIs**, **GraphQL**, and **headless CMS** solutions.
+- Leveraging **component-based design systems** and **UI libraries** like **Mantine**, **Chakra UI**, and **Radix UI**.
+- Applying **SOLID principles**, **separation of concerns**, and **clean code practices** to enhance code quality and long-term maintainability.
+- Innovating through **open-source technologies** and contributing to tech communities.
+- Continuously **learning**, **experimenting**, and **evolving** through hands-on projects, technical research, and knowledge sharing.
 
 ---
 
