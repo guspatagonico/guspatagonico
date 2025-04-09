@@ -25,14 +25,18 @@ I believe in the perks of sharing knowledge: **building, learning, evolving**.
 - Exploring **static site generation (SSG)**, **server-side rendering (SSR)**, **incremental static regeneration (ISR)**, and **serverless architectures**.
 - Integrating modern backend services through **REST APIs**, **GraphQL**, and **headless CMS** solutions.
 - Leveraging **component-based design systems** and **UI libraries** like **Mantine**, **Chakra UI**, and **Radix UI**.
-- Applying **SOLID principles**, **separation of concerns**, and **clean code practices** to enhance code quality and long-term maintainability.
 - Innovating through **open-source technologies** and contributing to tech communities.
 - Continuously **learning**, **experimenting**, and **evolving** through hands-on projects, technical research, and knowledge sharing.
 
 ---
 
-## ✨ Philosophy
-> **Building, learning, evolving — and sharing the journey.**
+## ✨ Personal Manifesto
+
+Ideas are seeds.  
+Discipline makes them grow.  
+Knowledge shared multiplies.  
+Excellence is not an act, but a habit.  
+Every project is a journey of building, learning, and evolving.
 
 ---
 
