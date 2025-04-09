@@ -5,16 +5,16 @@ Welcome to my digital playground!
 I'm a Web Developer, IT Consultant, and Founder of [EcimTech](https://ecimtech.com), passionate about building tailored web solutions that drive growth, innovation, and transformation.
 
 Here, I explore full-stack web technologies, experiment with open-source projects, and share what I learn along the way.  
-I believe in the perks of sharing knowledge: **building, learning, evolving** — one project, one lesson at a time.
+I believe in the perks of sharing knowledge: **building, learning, evolving**.
 
 ---
 
 ## 🔥 What I do
-- 🌐 Full-Stack Web Development (Next.js, React, Node.js, and more)
+- 🚀 Building and Growing Digital Products
 - ⚙️ IT Consulting and Digital Solutions Architecture
+- 🌐 Full-Stack Web Development (Next.js, React, Node.js, and more)
 - 🛠️ Open-Source Projects and Experimentation
 - 📚 Knowledge Sharing and Community Contribution
-- 🚀 Building and Growing Digital Products
 
 ---
 
