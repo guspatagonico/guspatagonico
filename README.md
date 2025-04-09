@@ -38,8 +38,6 @@ I see AI not just as a tool, but as a catalyst for **building smarter, more scal
 - Exploring **static site generation (SSG)**, **server-side rendering (SSR)**, **incremental static regeneration (ISR)**, and **serverless architectures**.
 - Integrating modern backend services through **REST APIs**, **GraphQL**, and **headless CMS** solutions.
 - Leveraging **component-based design systems** and **UI libraries** like **Mantine**, **Chakra UI**, and **Radix UI**.
-- Innovating through **open-source technologies** and contributing to tech communities.
-- Continuously **learning**, **experimenting**, and **evolving** through hands-on projects, technical research, and knowledge sharing.
 
 ---
 
