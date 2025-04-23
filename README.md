@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gustavo Adrián Salvini
 
-I'm a Web Developer, IT Consultant, and Founder of [EcimTech](https://ecimtech.com), passionate about building tailored web solutions that drive growth, innovation, and transformation.
+I'm a Software Developer, IT Consultant, and Founder of [EcimTech](https://ecimtech.com), passionate about building tailored web solutions that drive growth, innovation, and transformation.
 
 Here, I explore full-stack web technologies, experiment with open-source projects, and share what I learn along the way.  
 I believe in the perks of sharing knowledge: **building, learning, evolving**.
